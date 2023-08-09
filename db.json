@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "todo": {
+        "id": "2004e8f2-00ba-4562-afb1-0e1cfe5cf8fa",
+        "name": "Tete da Heleninha",
+        "description": "Dar tete da Heleninha",
+        "date": "2023-08-09T06:11:33.800Z",
+        "done": false
+      }
+    },
+    {
+      "todo": {
+        "id": "4022177c-3ed6-4b7a-80b6-1e2378b04c0c",
+        "name": "Pudim do Yan",
+        "description": "Dar pudim para o Yan",
+        "date": "2023-08-09T06:11:33.800Z",
+        "done": false
+      }
+    },
+    {
+      "todo": {
+        "id": "622024ca-36fa-4e73-8f42-bfd671d9782a",
+        "name": "Verificar cartão Nubank",
+        "description": "Verificar o cartão no app",
+        "date": "2023-08-09T06:11:33.800Z",
+        "done": false
+      }
+    },
+    {
+      "todo": {
+        "id": "6ba30853-ff0b-494c-a753-7900ee79ee97",
+        "name": "Ver correios",
+        "description": "Conferir ssd e mouse pad",
+        "date": "2023-08-09T06:11:33.801Z",
+        "done": false
+      }
+    }
+  ]
+}
